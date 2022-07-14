@@ -1,0 +1,1 @@
+Use the streamlit file to run this remotely, or use the flask files to test the response through python
