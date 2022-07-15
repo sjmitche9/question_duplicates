@@ -1,4 +1,4 @@
-pip==22.1.2
+tokenizers
 RUST
 transformers==2.11.0
 tensorflow
