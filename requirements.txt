@@ -1,3 +1,4 @@
+pip==22.1.2
 transformers==2.11.0
 tensorflow
 numpy
