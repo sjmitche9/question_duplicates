@@ -1,0 +1,2 @@
+- this repository contains a model to identify question duplicates or similar questions
+- trained on the quora question pairs and more, this was employed at a job to identify job seeking candidates duplicated questions
